@@ -1,4 +1,4 @@
-- 👋 Hi, my name's  **Adebowlae Damilola**
+- 👋 Hi, my name's  **Adebowale Damilola**
 - 👀 I’m a Biochemistry major and A curious technology enthusiast with passion for the IT industry
 - 🌱 I’m currently learning  React.js, scss frameworks
 - 💞️ I’m looking to collaborate on amazing Frontend Projects.
