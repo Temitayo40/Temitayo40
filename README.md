@@ -19,7 +19,6 @@
 
 <h1 align="center" style="color: green"> Adebowale's Stats </h1>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Temitayo40&label=Profile%20views&color=0e75b6&style=flat" alt="Adebowale" /> </p>
 
 
 <p align="center"> <a href="https://twitter.com/Dharmmycrown" target="blank"><img src="https://img.shields.io/twitter/follow/Dharmmycrown?logo=twitter&style=for-the-badge" alt="dharmmycrown" /></a> </p>
