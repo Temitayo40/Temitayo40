@@ -13,7 +13,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="60" height="60"/>&nbsp;
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="SASS" width="60" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind CSS" alt="Tailwind CSS" width="60" height="60"/>
 </div>
+
 
 ---
 
@@ -23,6 +25,8 @@
 
 <p align="center"> <a href="https://twitter.com/Dharmmycrown" target="blank"><img src="https://img.shields.io/twitter/follow/Dharmmycrown?logo=twitter&style=for-the-badge" alt="dharmmycrown" /></a> </p>
 <p align="center">&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=Temitayo40&theme=dark&show_icons=true&locale=en" alt="Adebowale" /></p>
+
+
 
 </p>
 
