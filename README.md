@@ -1,5 +1,5 @@
 - 👋 Hi, my name's  **Adebowale Damilola**
-- 👀 I’m a Biochemistry major and A curious technology enthusiast with passion for the IT industry
+- 👀 I am a Web developer with 3 years of experience. 
 - 🌱 I’m currently learning  React.js, scss frameworks
 - 💞️ I’m looking to collaborate on amazing Frontend Projects.
 - 📫 How to reach me: Email @adebowaledamilola40@gmail.com
@@ -11,7 +11,7 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain-wordmark.svg" title="Python" alt="Python" width="60" height="60"/>
+
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="SASS" width="60" height="60"/>
 </div>
 
