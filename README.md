@@ -17,6 +17,8 @@
 </div>
 
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
 ---
 
 <h1 align="center" style="color: green"> Adebowale's Stats </h1>
@@ -24,11 +26,7 @@
 
 
 <p align="center"> <a href="https://twitter.com/Dharmmycrown" target="blank"><img src="https://img.shields.io/twitter/follow/Dharmmycrown?logo=twitter&style=for-the-badge" alt="dharmmycrown" /></a> </p>
-<p align="center">&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=Temitayo40&theme=dark&show_icons=true&locale=en" alt="Adebowale" /></p>
 
-
-
-</p>
 
 
 
