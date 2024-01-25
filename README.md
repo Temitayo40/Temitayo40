@@ -1,4 +1,3 @@
-<!--START_SECTION:waka-->
 - 👋 Hi, my name's  **Adebowale Damilola**
 - 👀 I am a Web developer with 3 years of experience. 
 - 🌱 I’m currently learning  React.js, scss frameworks
@@ -31,7 +30,6 @@
 
 <p align="center"> <a href="https://twitter.com/Dharmmycrown" target="blank"><img src="https://img.shields.io/twitter/follow/Dharmmycrown?logo=twitter&style=for-the-badge" alt="dharmmycrown" /></a> </p>
 
-<!--END_SECTION:waka-->
 
 
 
