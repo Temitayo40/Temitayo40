@@ -1,6 +1,6 @@
 - 👋 Hi, my name's  **Adebowale Damilola**
 - 👀 I am a Web developer with 3 years of experience. 
-- 🌱 I’m currently learning  React.js, scss frameworks
+- 🌱 I’m currently using Nextjs Framework for my projects.
 - 💞️ I’m looking to collaborate on amazing Frontend Projects.
 - 📫 How to reach me: Email @adebowaledamilola40@gmail.com
 ---
